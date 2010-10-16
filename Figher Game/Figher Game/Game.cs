@@ -57,8 +57,8 @@ namespace Figher_Game
 
             background = Content.Load<Texture2D>(@"Backgrounds/Cubes");
             String name = "deadpool";
-            player1 = new Player(new Character(name, Content.Load<Texture2D>(@"Sprites/" + name)), new Rectangle(0, GraphicsDevice.Viewport.Height - 134, 92, 134));
-            player2 = new Player(new Character(name, Content.Load<Texture2D>(@"Sprites/" + name)), new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134));
+            player1 = new Player(Character.DEADPOOL, new Rectangle(0, GraphicsDevice.Viewport.Height - 134, 92, 134));
+            player2 = new Player(Character.DEADPOOL, new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134));
             //player2 = player1;
             //player2Loc = new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134);
         }
