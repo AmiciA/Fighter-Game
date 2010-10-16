@@ -56,11 +56,9 @@ namespace Figher_Game
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             background = Content.Load<Texture2D>(@"Backgrounds/Cubes");
-            String name = "deadpool";
-            player1 = new Player(Character.DEADPOOL, new Rectangle(0, GraphicsDevice.Viewport.Height - 134, 92, 134));
-            player2 = new Player(Character.DEADPOOL, new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134));
-            //player2 = player1;
-            //player2Loc = new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134);
+
+            player1 = new Player(Character.DEADPOOL);
+            player2 = new Player(Character.DEADPOOL);
         }
 
         /// <summary>
@@ -84,14 +82,50 @@ namespace Figher_Game
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            if (Keyboard.GetState().IsKeyDown(Keys.A))
-                player1.rectangle.X -= 10;
-            else if (Keyboard.GetState().IsKeyDown(Keys.D))
-                player1.rectangle.X += 10;
+            Keys[] pressed_Key = Keyboard.GetState().GetPressedKeys();
+
+            for (int i = 0; i < pressed_Key.Length; i++)
+            {
+                switch (pressed_Key[i])
+                {
+                    case Keys.A:
+                        player1.rectangle.X -= 10;
+                        break;
+                    case Keys.D:
+                        player1.rectangle.X += 10;
+                        break;
+                    case Keys.W:
+                        player1.jump();
+                        break;
+                    case Keys.Left:
+                        player2.rectangle.X -= 10;
+                        break;
+                    case Keys.Right:
+                        player2.rectangle.X += 10;
+                        break;
+                    case Keys.Up:
+                        player2.jump();
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            // Jumping
+            if (player1.isJumping)
+            {
+                player1.rectangle.Y -= player1.yVel;
+                player1.yVel -= 1;
+            }
+
+            if (player2.isJumping)
+            {
+                player2.rectangle.Y -= player2.yVel;
+                player2.yVel -= 1;
+            }
 
             if (player1.rectangle.Y >= GraphicsDevice.Viewport.Height - 134)
             {
@@ -99,42 +133,13 @@ namespace Figher_Game
                 player1.rectangle.Y = GraphicsDevice.Viewport.Height - 134;
             }
 
-            if (Keyboard.GetState().IsKeyDown(Keys.Space) && !player1.isJumping)
-            {
-                player1.yVel = 18;
-                player1.isJumping = true;
-            }
-
-
-            if (player1.isJumping)
-            {
-                player1.rectangle.Y -= player1.yVel;
-                player1.yVel -= 1;
-            }
-
-            if (Keyboard.GetState().IsKeyDown(Keys.Left))
-                player2.rectangle.X -= 10;
-            else if (Keyboard.GetState().IsKeyDown(Keys.Right))
-                player2.rectangle.X += 10;
-
             if (player2.rectangle.Y >= GraphicsDevice.Viewport.Height - 134)
             {
                 player2.isJumping = false;
                 player2.rectangle.Y = GraphicsDevice.Viewport.Height - 134;
             }
 
-            if (Keyboard.GetState().IsKeyDown(Keys.RightShift) && !player2.isJumping)
-            {
-                player2.yVel = 18;
-                player2.isJumping = true;
-            }
-
-
-            if (player2.isJumping)
-            {
-                player2.rectangle.Y -= player2.yVel;
-                player2.yVel -= 1;
-            }
+            // End jumping
 
             base.Update(gameTime);
         }

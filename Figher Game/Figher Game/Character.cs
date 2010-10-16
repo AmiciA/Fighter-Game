@@ -16,6 +16,8 @@ namespace Figher_Game
     {
         public static Character DEADPOOL = new Character("deadpool");
 
+        public static int height = 132,
+                          width = 92;
 
         public Texture2D texture;
         public String name;
