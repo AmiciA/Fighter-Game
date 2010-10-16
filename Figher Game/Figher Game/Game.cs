@@ -97,7 +97,7 @@ namespace Figher_Game
                     case Keys.D:
                         player1.rectangle.X += 10;
                         break;
-                    case Keys.W:
+                    case Keys.Space:
                         player1.jump();
                         break;
                     case Keys.Left:
@@ -106,7 +106,7 @@ namespace Figher_Game
                     case Keys.Right:
                         player2.rectangle.X += 10;
                         break;
-                    case Keys.Up:
+                    case Keys.RightShift:
                         player2.jump();
                         break;
                     default:

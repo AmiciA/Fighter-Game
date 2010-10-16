@@ -1437,6 +1437,9 @@
       <Name>Sprites\deadpool</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">64, 128, 0, 255</Data>
+      </Parameters>
       <Options>None</Options>
       <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\bin\x86\Debug\Content\Sprites\deadpool.xnb</Output>
       <Time>2010-10-09T15:49:42.6062899-04:00</Time>
