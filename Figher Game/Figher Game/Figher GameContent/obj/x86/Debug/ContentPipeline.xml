@@ -1,0 +1,1486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Animations\000.png</Source>
+      <Name>Animations\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\000.xnb</Output>
+      <Time>2010-10-11T20:14:31.9598182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\absorb1.png</Source>
+      <Name>Animations\absorb1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\absorb1.xnb</Output>
+      <Time>2010-10-11T20:14:31.9668186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\absorb2.png</Source>
+      <Name>Animations\absorb2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\absorb2.xnb</Output>
+      <Time>2010-10-11T20:14:31.9878197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\attack.png</Source>
+      <Name>Animations\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\attack.xnb</Output>
+      <Time>2010-10-11T20:14:31.9908199-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack1.png</Source>
+      <Name>Animations\Attack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack1.xnb</Output>
+      <Time>2010-10-09T15:27:54.8749763-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack2.png</Source>
+      <Name>Animations\Attack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack2.xnb</Output>
+      <Time>2010-10-09T15:27:54.8789766-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack3.png</Source>
+      <Name>Animations\Attack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack3.xnb</Output>
+      <Time>2010-10-09T15:27:54.8839768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack4.png</Source>
+      <Name>Animations\Attack4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack4.xnb</Output>
+      <Time>2010-10-09T15:27:54.8889771-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack5.png</Source>
+      <Name>Animations\Attack5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack5.xnb</Output>
+      <Time>2010-10-09T15:27:54.8919773-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Attack6.png</Source>
+      <Name>Animations\Attack6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Attack6.xnb</Output>
+      <Time>2010-10-09T15:27:54.9219789-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\axe1.png</Source>
+      <Name>Animations\axe1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\axe1.xnb</Output>
+      <Time>2010-10-11T20:14:31.99282-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\axe2.png</Source>
+      <Name>Animations\axe2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\axe2.xnb</Output>
+      <Time>2010-10-11T20:14:31.9948201-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Balloon.png</Source>
+      <Name>Animations\Balloon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Balloon.xnb</Output>
+      <Time>2010-10-11T20:14:31.9628183-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\barrier1.png</Source>
+      <Name>Animations\barrier1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\barrier1.xnb</Output>
+      <Time>2010-10-11T20:14:31.9968202-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\barrier2.png</Source>
+      <Name>Animations\barrier2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\barrier2.xnb</Output>
+      <Time>2010-10-11T20:14:31.9988203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Blow1.png</Source>
+      <Name>Animations\Blow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Blow1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9259792-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Blow2.png</Source>
+      <Name>Animations\Blow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Blow2.xnb</Output>
+      <Time>2010-10-09T15:27:54.9339796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Blow3.png</Source>
+      <Name>Animations\Blow3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Blow3.xnb</Output>
+      <Time>2010-10-09T15:27:54.9359797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\bolt1.png</Source>
+      <Name>Animations\bolt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\bolt1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0008204-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\bolt2.png</Source>
+      <Name>Animations\bolt2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\bolt2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0028206-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\bow1.png</Source>
+      <Name>Animations\bow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\bow1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0138212-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\bow2.png</Source>
+      <Name>Animations\bow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\bow2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0148212-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\breath1.png</Source>
+      <Name>Animations\breath1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\breath1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0158213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\breath2.png</Source>
+      <Name>Animations\breath2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\breath2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0178214-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\claw1.png</Source>
+      <Name>Animations\claw1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\claw1.xnb</Output>
+      <Time>2010-10-11T20:14:32.028822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\claw2.png</Source>
+      <Name>Animations\claw2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\claw2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0308221-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Curation1.png</Source>
+      <Name>Animations\Curation1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Curation1.xnb</Output>
+      <Time>2010-10-11T20:14:31.9648185-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\cure1.png</Source>
+      <Name>Animations\cure1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\cure1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0328222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\cure2.png</Source>
+      <Name>Animations\cure2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\cure2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0348223-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\dark1.png</Source>
+      <Name>Animations\dark1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\dark1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0368224-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\dark2.png</Source>
+      <Name>Animations\dark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\dark2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0388225-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Darkness1.png</Source>
+      <Name>Animations\Darkness1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Darkness1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9379798-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Darkness2.png</Source>
+      <Name>Animations\Darkness2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Darkness2.xnb</Output>
+      <Time>2010-10-09T15:27:54.9449802-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Death1.png</Source>
+      <Name>Animations\Death1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Death1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9499805-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\decrease.png</Source>
+      <Name>Animations\decrease</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\decrease.xnb</Output>
+      <Time>2010-10-11T20:14:32.0408227-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\earth1 (2).png</Source>
+      <Name>Animations\earth1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\earth1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.0418227-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Earth1.png</Source>
+      <Name>Animations\Earth1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Earth1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9549808-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\earth2 (2).png</Source>
+      <Name>Animations\earth2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\earth2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.0428228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Earth2.png</Source>
+      <Name>Animations\Earth2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Earth2.xnb</Output>
+      <Time>2010-10-09T15:27:54.9579809-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\emotes.png</Source>
+      <Name>Animations\emotes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\emotes.xnb</Output>
+      <Time>2010-10-11T20:14:32.0438228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\explode1.png</Source>
+      <Name>Animations\explode1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\explode1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0448229-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\explode2.png</Source>
+      <Name>Animations\explode2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\explode2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0458229-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\fire1 (2).png</Source>
+      <Name>Animations\fire1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\fire1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.046823-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Fire1.png</Source>
+      <Name>Animations\Fire1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Fire1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9629812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\fire2 (2).png</Source>
+      <Name>Animations\fire2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\fire2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.047823-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Fire2.png</Source>
+      <Name>Animations\Fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Fire2.xnb</Output>
+      <Time>2010-10-09T15:27:54.9719817-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\fire3 (2).png</Source>
+      <Name>Animations\fire3 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\fire3 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.0488231-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Fire3.png</Source>
+      <Name>Animations\Fire3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Fire3.xnb</Output>
+      <Time>2010-10-09T15:27:54.9879826-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal1.png</Source>
+      <Name>Animations\Heal1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal1.xnb</Output>
+      <Time>2010-10-09T15:27:54.9979832-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal2.png</Source>
+      <Name>Animations\Heal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal2.xnb</Output>
+      <Time>2010-10-09T15:27:55.0039835-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal3.png</Source>
+      <Name>Animations\Heal3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal3.xnb</Output>
+      <Time>2010-10-09T15:27:55.0169842-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal4.png</Source>
+      <Name>Animations\Heal4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal4.xnb</Output>
+      <Time>2010-10-09T15:27:55.0379854-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal5.png</Source>
+      <Name>Animations\Heal5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal5.xnb</Output>
+      <Time>2010-10-09T15:27:55.0589865-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Heal6.png</Source>
+      <Name>Animations\Heal6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Heal6.xnb</Output>
+      <Time>2010-10-09T15:27:55.0649869-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\healing1.png</Source>
+      <Name>Animations\healing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\healing1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0498232-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\healing2.png</Source>
+      <Name>Animations\healing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\healing2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0508232-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\holy1.png</Source>
+      <Name>Animations\holy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\holy1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0518233-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\holy2.png</Source>
+      <Name>Animations\holy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\holy2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0528233-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\ice1 (2).png</Source>
+      <Name>Animations\ice1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\ice1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.0768247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Ice1.png</Source>
+      <Name>Animations\Ice1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Ice1.xnb</Output>
+      <Time>2010-10-09T15:27:55.0729873-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\ice2 (2).png</Source>
+      <Name>Animations\ice2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\ice2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.0778247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Ice2.png</Source>
+      <Name>Animations\Ice2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Ice2.xnb</Output>
+      <Time>2010-10-09T15:27:55.0779876-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Ice3.png</Source>
+      <Name>Animations\Ice3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Ice3.xnb</Output>
+      <Time>2010-10-09T15:27:55.0799877-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Ice4.png</Source>
+      <Name>Animations\Ice4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Ice4.xnb</Output>
+      <Time>2010-10-09T15:27:55.0879881-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\increase.png</Source>
+      <Name>Animations\increase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\increase.xnb</Output>
+      <Time>2010-10-11T20:14:32.0798248-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Light1.png</Source>
+      <Name>Animations\Light1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Light1.xnb</Output>
+      <Time>2010-10-09T15:27:55.0919883-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Light2.png</Source>
+      <Name>Animations\Light2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Light2.xnb</Output>
+      <Time>2010-10-09T15:27:55.0959886-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\lightray.png</Source>
+      <Name>Animations\lightray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\lightray.xnb</Output>
+      <Time>2010-10-11T20:14:32.0808249-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\marioBGanims.png</Source>
+      <Name>Animations\marioBGanims</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\marioBGanims.xnb</Output>
+      <Time>2010-10-11T20:14:32.082825-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\misc1.png</Source>
+      <Name>Animations\misc1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\misc1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0848251-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\misc2.png</Source>
+      <Name>Animations\misc2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\misc2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0868252-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\misc3.png</Source>
+      <Name>Animations\misc3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\misc3.xnb</Output>
+      <Time>2010-10-11T20:14:32.0888253-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\paralyze1.png</Source>
+      <Name>Animations\paralyze1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\paralyze1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0898254-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\paralyze2.png</Source>
+      <Name>Animations\paralyze2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\paralyze2.xnb</Output>
+      <Time>2010-10-11T20:14:32.0908254-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\revive1.png</Source>
+      <Name>Animations\revive1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\revive1.xnb</Output>
+      <Time>2010-10-11T20:14:32.0938256-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\revive2.png</Source>
+      <Name>Animations\revive2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\revive2.xnb</Output>
+      <Time>2010-10-11T20:14:32.1148268-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\spear1 (2).png</Source>
+      <Name>Animations\spear1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\spear1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1158268-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spear1.png</Source>
+      <Name>Animations\Spear1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Spear1.xnb</Output>
+      <Time>2010-10-09T15:27:55.0979887-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\spear2 (2).png</Source>
+      <Name>Animations\spear2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\spear2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1168269-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spear2.png</Source>
+      <Name>Animations\Spear2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Spear2.xnb</Output>
+      <Time>2010-10-09T15:27:55.102989-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special1.png</Source>
+      <Name>Animations\Special1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special1.xnb</Output>
+      <Time>2010-10-09T15:27:55.1119895-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special2.png</Source>
+      <Name>Animations\Special2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special2.xnb</Output>
+      <Time>2010-10-09T15:27:55.1199899-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special3.png</Source>
+      <Name>Animations\Special3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special3.xnb</Output>
+      <Time>2010-10-09T15:27:55.1279903-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special4.png</Source>
+      <Name>Animations\Special4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special4.xnb</Output>
+      <Time>2010-10-09T15:27:55.1309905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special5.png</Source>
+      <Name>Animations\Special5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special5.xnb</Output>
+      <Time>2010-10-09T15:27:55.1509916-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special6.png</Source>
+      <Name>Animations\Special6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special6.xnb</Output>
+      <Time>2010-10-09T15:27:55.1539918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special7.png</Source>
+      <Name>Animations\Special7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special7.xnb</Output>
+      <Time>2010-10-09T15:27:55.1559919-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special8.png</Source>
+      <Name>Animations\Special8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special8.xnb</Output>
+      <Time>2010-10-09T15:27:55.1599921-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Special9.png</Source>
+      <Name>Animations\Special9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Special9.xnb</Output>
+      <Time>2010-10-09T15:27:55.1639923-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State1.png</Source>
+      <Name>Animations\State1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State1.xnb</Output>
+      <Time>2010-10-09T15:27:55.1669925-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State2.png</Source>
+      <Name>Animations\State2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State2.xnb</Output>
+      <Time>2010-10-09T15:27:55.1739929-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State3.png</Source>
+      <Name>Animations\State3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State3.xnb</Output>
+      <Time>2010-10-09T15:27:55.1779931-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State4.png</Source>
+      <Name>Animations\State4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State4.xnb</Output>
+      <Time>2010-10-09T15:27:55.1799932-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State5.png</Source>
+      <Name>Animations\State5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State5.xnb</Output>
+      <Time>2010-10-09T15:27:55.1839934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\State6.png</Source>
+      <Name>Animations\State6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\State6.xnb</Output>
+      <Time>2010-10-09T15:27:55.1879937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\strike.png</Source>
+      <Name>Animations\strike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\strike.xnb</Output>
+      <Time>2010-10-11T20:14:32.1178269-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\sword1 (2).png</Source>
+      <Name>Animations\sword1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\sword1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.118827-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword1.png</Source>
+      <Name>Animations\Sword1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword1.xnb</Output>
+      <Time>2010-10-09T15:27:55.1889937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\sword2 (2).png</Source>
+      <Name>Animations\sword2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\sword2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1208271-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword2.png</Source>
+      <Name>Animations\Sword2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword2.xnb</Output>
+      <Time>2010-10-09T15:27:55.1929939-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\sword3 (2).png</Source>
+      <Name>Animations\sword3 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\sword3 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1218271-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword3.png</Source>
+      <Name>Animations\Sword3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword3.xnb</Output>
+      <Time>2010-10-09T15:27:55.1969942-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword4.png</Source>
+      <Name>Animations\Sword4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword4.xnb</Output>
+      <Time>2010-10-09T15:27:55.2009944-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword5.png</Source>
+      <Name>Animations\Sword5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword5.xnb</Output>
+      <Time>2010-10-09T15:27:55.2079948-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Sword6.png</Source>
+      <Name>Animations\Sword6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Sword6.xnb</Output>
+      <Time>2010-10-09T15:27:55.2109949-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Thunder1.png</Source>
+      <Name>Animations\Thunder1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Thunder1.xnb</Output>
+      <Time>2010-10-09T15:27:55.2159952-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Thunder2.png</Source>
+      <Name>Animations\Thunder2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Thunder2.xnb</Output>
+      <Time>2010-10-09T15:27:55.2199954-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Thunder3.png</Source>
+      <Name>Animations\Thunder3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Thunder3.xnb</Output>
+      <Time>2010-10-09T15:27:55.2369964-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\water1 (2).png</Source>
+      <Name>Animations\water1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\water1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1238272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Water1.png</Source>
+      <Name>Animations\Water1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Water1.xnb</Output>
+      <Time>2010-10-09T15:27:55.2429967-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\water2 (2).png</Source>
+      <Name>Animations\water2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\water2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1248273-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Water2.png</Source>
+      <Name>Animations\Water2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Water2.xnb</Output>
+      <Time>2010-10-09T15:27:55.2459969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\whip1.png</Source>
+      <Name>Animations\whip1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\whip1.xnb</Output>
+      <Time>2010-10-11T20:14:32.1258274-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\whip2.png</Source>
+      <Name>Animations\whip2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\whip2.xnb</Output>
+      <Time>2010-10-11T20:14:32.1278275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\wind1 (2).png</Source>
+      <Name>Animations\wind1 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\wind1 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1288275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Wind1.png</Source>
+      <Name>Animations\Wind1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Wind1.xnb</Output>
+      <Time>2010-10-09T15:27:55.2499971-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\wind2 (2).png</Source>
+      <Name>Animations\wind2 (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\wind2 (2).xnb</Output>
+      <Time>2010-10-11T20:14:32.1308276-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Wind2.png</Source>
+      <Name>Animations\Wind2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Animations\Wind2.xnb</Output>
+      <Time>2010-10-09T15:27:55.2559974-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\arena.png</Source>
+      <Name>Backgrounds\arena</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\arena.xnb</Output>
+      <Time>2010-10-09T14:58:46.5703004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\barren.png</Source>
+      <Name>Backgrounds\barren</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\barren.xnb</Output>
+      <Time>2010-10-09T14:58:46.5723006-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\bath.png</Source>
+      <Name>Backgrounds\bath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\bath.xnb</Output>
+      <Time>2010-10-09T14:58:46.5743007-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\beach.png</Source>
+      <Name>Backgrounds\beach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\beach.xnb</Output>
+      <Time>2010-10-09T14:58:46.5773008-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\bridge.png</Source>
+      <Name>Backgrounds\bridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\bridge.xnb</Output>
+      <Time>2010-10-09T14:58:46.580301-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\building.png</Source>
+      <Name>Backgrounds\building</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\building.xnb</Output>
+      <Time>2010-10-09T14:58:46.5833012-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\castle.png</Source>
+      <Name>Backgrounds\castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\castle.xnb</Output>
+      <Time>2010-10-09T14:58:46.5863013-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Cubes.jpg</Source>
+      <Name>Backgrounds\Cubes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\Cubes.xnb</Output>
+      <Time>2010-10-09T15:27:55.2609977-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\desert.png</Source>
+      <Name>Backgrounds\desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\desert.xnb</Output>
+      <Time>2010-10-09T14:58:46.5893015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon1.png</Source>
+      <Name>Backgrounds\dungeon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon1.xnb</Output>
+      <Time>2010-10-09T14:58:46.5913016-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon2.png</Source>
+      <Name>Backgrounds\dungeon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon2.xnb</Output>
+      <Time>2010-10-09T14:58:46.5933017-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon3.png</Source>
+      <Name>Backgrounds\dungeon3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon3.xnb</Output>
+      <Time>2010-10-09T14:58:46.5953018-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon4.png</Source>
+      <Name>Backgrounds\dungeon4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon4.xnb</Output>
+      <Time>2010-10-09T14:58:46.5973019-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon5.png</Source>
+      <Name>Backgrounds\dungeon5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon5.xnb</Output>
+      <Time>2010-10-09T14:58:46.5993021-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dungeon6.png</Source>
+      <Name>Backgrounds\dungeon6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\dungeon6.xnb</Output>
+      <Time>2010-10-09T14:58:46.6013022-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\forest1.png</Source>
+      <Name>Backgrounds\forest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\forest1.xnb</Output>
+      <Time>2010-10-09T14:58:46.6033023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\forest2.png</Source>
+      <Name>Backgrounds\forest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\forest2.xnb</Output>
+      <Time>2010-10-09T14:58:46.6063024-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\ghost-town.png</Source>
+      <Name>Backgrounds\ghost-town</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\ghost-town.xnb</Output>
+      <Time>2010-10-09T14:58:46.6073025-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\graveyard.png</Source>
+      <Name>Backgrounds\graveyard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\graveyard.xnb</Output>
+      <Time>2010-10-09T14:58:46.6083025-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\mario.png</Source>
+      <Name>Backgrounds\mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\mario.xnb</Output>
+      <Time>2010-10-11T20:14:32.1328277-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\mountain.png</Source>
+      <Name>Backgrounds\mountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\mountain.xnb</Output>
+      <Time>2010-10-09T14:58:46.6093026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\ocean.png</Source>
+      <Name>Backgrounds\ocean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\ocean.xnb</Output>
+      <Time>2010-10-09T14:58:46.6113027-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\plains.png</Source>
+      <Name>Backgrounds\plains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\plains.xnb</Output>
+      <Time>2010-10-09T14:58:46.6123028-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\road.png</Source>
+      <Name>Backgrounds\road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\road.xnb</Output>
+      <Time>2010-10-09T14:58:46.6133028-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\rockbed.png</Source>
+      <Name>Backgrounds\rockbed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\rockbed.xnb</Output>
+      <Time>2010-10-09T14:58:46.6153029-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\ruins1.png</Source>
+      <Name>Backgrounds\ruins1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\ruins1.xnb</Output>
+      <Time>2010-10-09T14:58:46.616303-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\ruins2.png</Source>
+      <Name>Backgrounds\ruins2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\ruins2.xnb</Output>
+      <Time>2010-10-09T14:58:46.617303-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\shipdeck.png</Source>
+      <Name>Backgrounds\shipdeck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\shipdeck.xnb</Output>
+      <Time>2010-10-09T14:58:46.6183031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\shrine.png</Source>
+      <Name>Backgrounds\shrine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\shrine.xnb</Output>
+      <Time>2010-10-09T14:58:46.6193032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\sky.png</Source>
+      <Name>Backgrounds\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\sky.xnb</Output>
+      <Time>2010-10-09T14:58:46.6203032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\snowfield.png</Source>
+      <Name>Backgrounds\snowfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\snowfield.xnb</Output>
+      <Time>2010-10-09T14:58:46.6223033-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space.png</Source>
+      <Name>Backgrounds\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\space.xnb</Output>
+      <Time>2010-10-09T14:58:46.6233034-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\strange.png</Source>
+      <Name>Backgrounds\strange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\strange.xnb</Output>
+      <Time>2010-10-09T14:58:46.6243034-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\swamp.png</Source>
+      <Name>Backgrounds\swamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\swamp.xnb</Output>
+      <Time>2010-10-09T14:58:46.6253035-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\town.png</Source>
+      <Name>Backgrounds\town</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\town.xnb</Output>
+      <Time>2010-10-09T14:58:46.6263035-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\wasteland.png</Source>
+      <Name>Backgrounds\wasteland</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Backgrounds\wasteland.xnb</Output>
+      <Time>2010-10-09T14:58:46.6273036-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Bar Graphics\system2a.png</Source>
+      <Name>Health Bar Graphics\system2a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Health Bar Graphics\system2a.xnb</Output>
+      <Time>2010-10-11T20:14:32.1348279-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Bar Graphics\system2b.png</Source>
+      <Name>Health Bar Graphics\system2b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Health Bar Graphics\system2b.xnb</Output>
+      <Time>2010-10-11T20:14:32.1358279-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Bar Graphics\system2c.png</Source>
+      <Name>Health Bar Graphics\system2c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Health Bar Graphics\system2c.xnb</Output>
+      <Time>2010-10-11T20:14:32.136828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Icons\IconSet.png</Source>
+      <Name>Icons\IconSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Icons\IconSet.xnb</Output>
+      <Time>2010-10-11T20:14:32.1388281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Full Sheets\sf_cammy.png</Source>
+      <Name>Sprites\Full Sheets\sf_cammy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Sprites\Full Sheets\sf_cammy.xnb</Output>
+      <Time>2010-10-09T14:58:46.6803065-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Partials\deadpool.png</Source>
+      <Name>Sprites\Partials\deadpool</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\Sprites\Partials\deadpool.xnb</Output>
+      <Time>2010-10-09T15:49:42.6062899-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-11T20:38:32.904498-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

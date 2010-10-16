@@ -1,0 +1,2 @@
+c:\users\michael swan\documents\visual studio 2010\Projects\Figher Game\Figher Game\Figher GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Swan\Fighter-Game\Figher Game\Figher Game\Figher GameContent\obj\x86\Debug\ResolveAssemblyReference.cache

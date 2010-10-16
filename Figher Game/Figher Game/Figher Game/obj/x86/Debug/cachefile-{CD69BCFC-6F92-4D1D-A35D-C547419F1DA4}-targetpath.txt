@@ -1,0 +1,160 @@
+Content\Animations\000.xnb
+Content\Animations\absorb1.xnb
+Content\Animations\absorb2.xnb
+Content\Animations\attack.xnb
+Content\Animations\Attack1.xnb
+Content\Animations\Attack2.xnb
+Content\Animations\Attack3.xnb
+Content\Animations\Attack4.xnb
+Content\Animations\Attack5.xnb
+Content\Animations\Attack6.xnb
+Content\Animations\axe1.xnb
+Content\Animations\axe2.xnb
+Content\Animations\Balloon.xnb
+Content\Animations\barrier1.xnb
+Content\Animations\barrier2.xnb
+Content\Animations\Blow1.xnb
+Content\Animations\Blow2.xnb
+Content\Animations\Blow3.xnb
+Content\Animations\bolt1.xnb
+Content\Animations\bolt2.xnb
+Content\Animations\bow1.xnb
+Content\Animations\bow2.xnb
+Content\Animations\breath1.xnb
+Content\Animations\breath2.xnb
+Content\Animations\claw1.xnb
+Content\Animations\claw2.xnb
+Content\Animations\Curation1.xnb
+Content\Animations\cure1.xnb
+Content\Animations\cure2.xnb
+Content\Animations\dark1.xnb
+Content\Animations\dark2.xnb
+Content\Animations\Darkness1.xnb
+Content\Animations\Darkness2.xnb
+Content\Animations\Death1.xnb
+Content\Animations\decrease.xnb
+Content\Animations\earth1 (2).xnb
+Content\Animations\Earth1.xnb
+Content\Animations\earth2 (2).xnb
+Content\Animations\Earth2.xnb
+Content\Animations\emotes.xnb
+Content\Animations\explode1.xnb
+Content\Animations\explode2.xnb
+Content\Animations\fire1 (2).xnb
+Content\Animations\Fire1.xnb
+Content\Animations\fire2 (2).xnb
+Content\Animations\Fire2.xnb
+Content\Animations\fire3 (2).xnb
+Content\Animations\Fire3.xnb
+Content\Animations\Heal1.xnb
+Content\Animations\Heal2.xnb
+Content\Animations\Heal3.xnb
+Content\Animations\Heal4.xnb
+Content\Animations\Heal5.xnb
+Content\Animations\Heal6.xnb
+Content\Animations\healing1.xnb
+Content\Animations\healing2.xnb
+Content\Animations\holy1.xnb
+Content\Animations\holy2.xnb
+Content\Animations\ice1 (2).xnb
+Content\Animations\Ice1.xnb
+Content\Animations\ice2 (2).xnb
+Content\Animations\Ice2.xnb
+Content\Animations\Ice3.xnb
+Content\Animations\Ice4.xnb
+Content\Animations\increase.xnb
+Content\Animations\Light1.xnb
+Content\Animations\Light2.xnb
+Content\Animations\lightray.xnb
+Content\Animations\marioBGanims.xnb
+Content\Animations\misc1.xnb
+Content\Animations\misc2.xnb
+Content\Animations\misc3.xnb
+Content\Animations\paralyze1.xnb
+Content\Animations\paralyze2.xnb
+Content\Animations\revive1.xnb
+Content\Animations\revive2.xnb
+Content\Animations\spear1 (2).xnb
+Content\Animations\Spear1.xnb
+Content\Animations\spear2 (2).xnb
+Content\Animations\Spear2.xnb
+Content\Animations\Special1.xnb
+Content\Animations\Special2.xnb
+Content\Animations\Special3.xnb
+Content\Animations\Special4.xnb
+Content\Animations\Special5.xnb
+Content\Animations\Special6.xnb
+Content\Animations\Special7.xnb
+Content\Animations\Special8.xnb
+Content\Animations\Special9.xnb
+Content\Animations\State1.xnb
+Content\Animations\State2.xnb
+Content\Animations\State3.xnb
+Content\Animations\State4.xnb
+Content\Animations\State5.xnb
+Content\Animations\State6.xnb
+Content\Animations\strike.xnb
+Content\Animations\sword1 (2).xnb
+Content\Animations\Sword1.xnb
+Content\Animations\sword2 (2).xnb
+Content\Animations\Sword2.xnb
+Content\Animations\sword3 (2).xnb
+Content\Animations\Sword3.xnb
+Content\Animations\Sword4.xnb
+Content\Animations\Sword5.xnb
+Content\Animations\Sword6.xnb
+Content\Animations\Thunder1.xnb
+Content\Animations\Thunder2.xnb
+Content\Animations\Thunder3.xnb
+Content\Animations\water1 (2).xnb
+Content\Animations\Water1.xnb
+Content\Animations\water2 (2).xnb
+Content\Animations\Water2.xnb
+Content\Animations\whip1.xnb
+Content\Animations\whip2.xnb
+Content\Animations\wind1 (2).xnb
+Content\Animations\Wind1.xnb
+Content\Animations\wind2 (2).xnb
+Content\Animations\Wind2.xnb
+Content\Backgrounds\arena.xnb
+Content\Backgrounds\barren.xnb
+Content\Backgrounds\bath.xnb
+Content\Backgrounds\beach.xnb
+Content\Backgrounds\bridge.xnb
+Content\Backgrounds\building.xnb
+Content\Backgrounds\castle.xnb
+Content\Backgrounds\Cubes.xnb
+Content\Backgrounds\desert.xnb
+Content\Backgrounds\dungeon1.xnb
+Content\Backgrounds\dungeon2.xnb
+Content\Backgrounds\dungeon3.xnb
+Content\Backgrounds\dungeon4.xnb
+Content\Backgrounds\dungeon5.xnb
+Content\Backgrounds\dungeon6.xnb
+Content\Backgrounds\forest1.xnb
+Content\Backgrounds\forest2.xnb
+Content\Backgrounds\ghost-town.xnb
+Content\Backgrounds\graveyard.xnb
+Content\Backgrounds\mario.xnb
+Content\Backgrounds\mountain.xnb
+Content\Backgrounds\ocean.xnb
+Content\Backgrounds\plains.xnb
+Content\Backgrounds\road.xnb
+Content\Backgrounds\rockbed.xnb
+Content\Backgrounds\ruins1.xnb
+Content\Backgrounds\ruins2.xnb
+Content\Backgrounds\shipdeck.xnb
+Content\Backgrounds\shrine.xnb
+Content\Backgrounds\sky.xnb
+Content\Backgrounds\snowfield.xnb
+Content\Backgrounds\space.xnb
+Content\Backgrounds\strange.xnb
+Content\Backgrounds\swamp.xnb
+Content\Backgrounds\town.xnb
+Content\Backgrounds\wasteland.xnb
+Content\Health Bar Graphics\system2a.xnb
+Content\Health Bar Graphics\system2b.xnb
+Content\Health Bar Graphics\system2c.xnb
+Content\Icons\IconSet.xnb
+Content\Sprites\Full Sheets\sf_cammy.xnb
+Content\Sprites\Partials\deadpool.xnb
