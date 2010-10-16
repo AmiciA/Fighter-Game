@@ -107,6 +107,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Character.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game.cs" />
@@ -116,9 +118,10 @@
     <Content Include="GameThumbnail.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Figher GameContent\Figher GameContent.contentproj">
-      <Name>Figher_GameContent</Name>
+    <ProjectReference Include="..\Figher GameContent\Figher Game Content.contentproj">
+      <Name>Figher Game Content %28Content%29</Name>
       <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{CD69BCFC-6F92-4D1D-A35D-C547419F1DA4}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

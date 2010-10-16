@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figher Game", "Figher Game\Figher Game\Figher Game.csproj", "{283C07B5-C85B-441F-A57A-112C346A604E}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Figher GameContent", "Figher Game\Figher GameContent\Figher GameContent.contentproj", "{CD69BCFC-6F92-4D1D-A35D-C547419F1DA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figher Game Content", "Figher Game\Figher GameContent\Figher Game Content.contentproj", "{CD69BCFC-6F92-4D1D-A35D-C547419F1DA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -19,17 +19,14 @@ namespace Figher_Game
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        Texture2D background, deadPool;
-        int yVel = 0;
-        Boolean player1Jump = false;
+        Texture2D background;
+        Player player1, player2;
 
         Rectangle standingRectangle = new Rectangle(
             0,
             0,
             92,
             134);
-
-        Rectangle deadPoolLoc;
 
         public Game()
         {
@@ -45,7 +42,6 @@ namespace Figher_Game
         /// </summary>
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
 
             base.Initialize();
         }
@@ -60,8 +56,11 @@ namespace Figher_Game
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             background = Content.Load<Texture2D>(@"Backgrounds/Cubes");
-            deadPool = Content.Load<Texture2D>(@"Sprites/Partials/deadpool");
-            deadPoolLoc = new Rectangle(0, GraphicsDevice.Viewport.Height - 134, 92, 134);
+            String name = "deadpool";
+            player1 = new Player(new Character(name, Content.Load<Texture2D>(@"Sprites/" + name)), new Rectangle(0, GraphicsDevice.Viewport.Height - 134, 92, 134));
+            player2 = new Player(new Character(name, Content.Load<Texture2D>(@"Sprites/" + name)), new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134));
+            //player2 = player1;
+            //player2Loc = new Rectangle(GraphicsDevice.Viewport.Width - 92, GraphicsDevice.Viewport.Height - 134, 92, 134);
         }
 
         /// <summary>
@@ -71,6 +70,11 @@ namespace Figher_Game
         protected override void UnloadContent()
         {
             // TODO: Unload any non ContentManager content here
+        }
+
+        public ContentManager getContent()
+        {
+            return Content;
         }
 
         /// <summary>
@@ -84,28 +88,52 @@ namespace Figher_Game
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            if (Keyboard.GetState().IsKeyDown(Keys.A) || Keyboard.GetState().IsKeyDown(Keys.Left))
-                deadPoolLoc.X -= 10;
-            else if (Keyboard.GetState().IsKeyDown(Keys.D) || Keyboard.GetState().IsKeyDown(Keys.Right))
-                deadPoolLoc.X += 10;
+            if (Keyboard.GetState().IsKeyDown(Keys.A))
+                player1.rectangle.X -= 10;
+            else if (Keyboard.GetState().IsKeyDown(Keys.D))
+                player1.rectangle.X += 10;
 
-            if (deadPoolLoc.Y >= GraphicsDevice.Viewport.Height - 134)
+            if (player1.rectangle.Y >= GraphicsDevice.Viewport.Height - 134)
             {
-                player1Jump = false;
-                deadPoolLoc.Y = GraphicsDevice.Viewport.Height - 134;
+                player1.isJumping = false;
+                player1.rectangle.Y = GraphicsDevice.Viewport.Height - 134;
             }
 
-            if (Keyboard.GetState().IsKeyDown(Keys.Space) && !player1Jump)
+            if (Keyboard.GetState().IsKeyDown(Keys.Space) && !player1.isJumping)
             {
-                yVel = 18;
-                player1Jump = true;
+                player1.yVel = 18;
+                player1.isJumping = true;
             }
 
 
-            if (player1Jump)
+            if (player1.isJumping)
             {
-                deadPoolLoc.Y -= yVel;
-                yVel -= 1;
+                player1.rectangle.Y -= player1.yVel;
+                player1.yVel -= 1;
+            }
+
+            if (Keyboard.GetState().IsKeyDown(Keys.Left))
+                player2.rectangle.X -= 10;
+            else if (Keyboard.GetState().IsKeyDown(Keys.Right))
+                player2.rectangle.X += 10;
+
+            if (player2.rectangle.Y >= GraphicsDevice.Viewport.Height - 134)
+            {
+                player2.isJumping = false;
+                player2.rectangle.Y = GraphicsDevice.Viewport.Height - 134;
+            }
+
+            if (Keyboard.GetState().IsKeyDown(Keys.RightShift) && !player2.isJumping)
+            {
+                player2.yVel = 18;
+                player2.isJumping = true;
+            }
+
+
+            if (player2.isJumping)
+            {
+                player2.rectangle.Y -= player2.yVel;
+                player2.yVel -= 1;
             }
 
             base.Update(gameTime);
@@ -124,7 +152,9 @@ namespace Figher_Game
                 background,
                 new Rectangle(0, 0, GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height),
                 Color.White);
-            spriteBatch.Draw(deadPool, deadPoolLoc, standingRectangle, Color.White);
+            spriteBatch.Draw(player1.character.texture, player1.rectangle, standingRectangle, Color.White);
+            spriteBatch.Draw(player2.character.texture, player2.rectangle, standingRectangle, Color.White);
+            //spriteBatch.Draw(player2, player2Loc, standingRectangle, Color.White);
             spriteBatch.End();
 
             base.Draw(gameTime);
