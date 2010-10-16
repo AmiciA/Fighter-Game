@@ -1,0 +1,11 @@
+h1. Fighter Game
+p. This game is currently under development by the Solehi Computer Club.
+
+h2. Menuing
+p. This branch needs to work on designing the GUI with whatever graphics that they can create or find. The menu layout team should also improve upon are basic ideas and make multiple sub-branches that can demonstrate more features that could be later developed by the game logic team.
+
+h2. Sprite Manipulation
+p. This branch will go through the tedious task of associating sprites/images with accessible objects and variables. This team will also try to find ways of displaying animations.
+
+h2. Game Logic
+p. This branch will include the general physics, movement rendering, and game logic associated with movement and actions.
